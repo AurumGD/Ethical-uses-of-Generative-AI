@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>GenAI FAQs & Ethical Use of AI</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">GenAI: Guide to use Artificial Intelligence</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navmenu">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navmenu">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="faq.html">FAQs</a></li>
+                    <li class="nav-item"><a class="nav-link" href="ethics.html">Ethics</a></li>
+                    <li class="nav-item"><a class="nav-link" href="analogy.html">Analogy</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <header class="header-carousel">
+        <div id="carouselHeader" class="carousel slide" data-bs-ride="carousel" data-bs-interval="2000">
+            <div class="carousel-inner">
+                <div class="carousel-item active" style="text-align: center;">
+                    <div class="carousel-bg">
+                        <img src="FrontImages/ChatGPT-cover.webp" class="text-align: center" alt="ChatGPT" style="width: 100%; height: 350px; object-fit: cover;">
+                    </div>
+                </div>
+                <div class="carousel-item" style="text-align: center;">
+                    <div class="carousel-bg">
+                        <img src="FrontImages/Gemini2nd.jpg" alt="Gemini" style="width: 100%; height: 350px; object-fit: cover;">
+                    </div>
+                </div>
+                <div class="carousel-item" style="text-align: center;">
+                    <div class="carousel-bg">
+                        <img src="FrontImages/OpenAISora 2nd.png" alt="Sora" style="width: 100%; height: 350px; object-fit: cover;">
+                    </div>
+                </div>
+                <div class="carousel-item" style="text-align: center;">
+                    <div class="carousel-bg">
+                        <img src="FrontImages/GithubCopilot.jpg" alt="Sora" style="width: 100%; height: 350px; object-fit: cover;">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+
+    <header class="bg-primary text-white py-5">
+        <div class="container">
+            <h1 class="display-6">Generative AI: FAQs & Ethical Use</h1>
+            <p class="lead">Clear explanations, practical guidance for students, researchers, and everyday users.</p>
+            <a class="btn btn-light" href="faq.html">Read FAQs</a>
+        </div>
+    </header>
+
+    <main class="container my-5">
+        <section class="row align-items-center">
+            <div class="col-md-6">
+                <h2>What you'll find</h2>
+                    <ul>
+                        <li>Concise GenAI FAQs</li>
+                        <li>Ethical guidance for academe and research</li>
+                        <li>An analogy about AI in development work</li>
+                    </ul>
+                <a class="btn btn-primary" href="ethics.html">Ethical Use of AI</a>
+            </div>
+            <div class="col-md-6">
+                <div class="card shadow-sm">
+                    <div class="card-body">
+                        <h5 class="card-title">Quick tips</h5>
+                        <p class="card-text">Always verify AI outputs, cite AI-assisted work, and use AI as a tool — not a substitute for critical thinking.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <main class="bg-primary text-white py-5">
+        <div class="container">
+            <h1 class="display-6">Implication of AI to work</h1>
+            <p class="lead">There are scenarios you can see in your work where the use of AI can be seen.</p>
+            <a class="btn btn-light" href="analogy.html">Analogy of AI</a>
+        </div>
+    </main>
+
+    <footer class="bg-dark text-white py-3">
+        <div class="container text-center small">Generative AI: FAQs & Ethical Use. | Technology should improve your life... not become your life. -Billy Cox</div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/main.js"></script>
+</body>
+</html>
