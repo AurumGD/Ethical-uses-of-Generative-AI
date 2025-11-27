@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Ethical Use of AI</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">GenAI: Analogy of AI in Dev Work</a>
+            <div class="collapse navbar-collapse" id="navmenu">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="faq.html">FAQs</a></li>
+                    <li class="nav-item"><a class="nav-link" href="ethics.html">Ethics</a></li>
+                    <li class="nav-item"><a class="nav-link" href="analogy.html">Analogy</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <main class="container my-5">
+        <h1 class="text-center">Analogy of AI in Dev Work</h1>
+        <p class="fs-5 text-center" style="text-align: justify;">"You are organizing your wedding, the documentation team is asking 40k for the wedding package. They will use an Iphone 16 pro max to cover the event and CapCut for the same day edit video. The documentation team has 2 years of experience and has an above average portfolio. Would you agree to that deal? Explain your answer and justify the integrity of their work. Reflect on the integrity, creativity, skill level of the “vibe” coders."</p>
+        
+        <section class="mb-4 mt-5">
+            <h3>What Does This Mean?</h3>
+            <p>In this analogy, we are here to judge whether we should accept the deal or not. As we are presented with their work ethics and integrity as a team. If we try to understand the meaning of the paragraph, we can refer the team as Dev workers who uses tools (Like Phone and Capcut to ChatGPT or CoPilot) and that has promising experiences or resume (two years in editing to coding) that is ultimately decided to the team's skill. In short, usage of tools does NOT automatically make you a great worker, but also depends on how the person uses it with their background knowledge and experience on those said tools.</p>
+        </section>
+
+        <section class="mb-4 mt-5">
+            <h3>What Is The Correct Answer?</h3>
+            <p>The correct answer depends on your preferences and choices, as both options could go either way. For example:</p>
+            <h6>If you chose "Yes" to the team's offer, it could be because of:</h6>
+            <ul>
+                <li>Their experiences with the tools they utilized</li>
+                <li>Amount of time they have been doing this for other customers</li>
+                <li>Even if they use tools to be efficient with their work, it still produces high quality content.</li>
+            </ul>
+            <p>The use of tech or editing software is not a big problem if the team uses it strictly as a tool to create better output than most teams. Just like when dev workers uses AI only to make the product optimized and efficient than if it were done without any assistance.</p>
+            <h6>But if you chose "No" to do offer, it could be because of:</h6>
+            <ul>
+                <li>The team's exchange for their work is $40,000, which is hefty based on their skillset</li>
+                <li>People tend to lean in more safer options, where they might choose people who uses proffessional cameras and editing software</li>
+                <li>People tend to favor "real" or safe skills than the quality of the output</li>
+            </ul>
+            <p>Trusting group of people to create a good output with the utilization of customer level tech or editing software can bring risks or untrustworthy from your judgement. Which can become an issue especially when the cost for the wedding documentation is $40,000. That is an appropriate reason on to why others might say no to the deal.</p>
+            <h3>To Summarize</h3>
+            <p>The answer depends on how big the documentation will be and how much you trust on the team. As majority would disagree to deal if the documentation will be small, especially if the pricetag for the ouput is $40,000 when the team utilizes Iphone 16 and Capcut. So I would estimate that majority of people will not accept the deal, unless the pricing of their work is negotiated. For the people who agreed to the deal, it may because you are close with the team, don't mind the pricing, or don't mind the method they are using. As long they have the set of skills and experiences to make an output is good enough for those people.</p>
+        </section>
+    </main>
+</body>
+</html>
