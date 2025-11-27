@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Ethical Use of AI</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">GenAI: Ethical Uses Of AI</a>
+            <div class="collapse navbar-collapse" id="navmenu">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="faq.html">FAQs</a></li>
+                    <li class="nav-item"><a class="nav-link" href="ethics.html">Ethics</a></li>
+                    <li class="nav-item"><a class="nav-link" href="analogy.html">Analogy</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <main class="container my-5">
+        <h1>Ethical Use of AI</h1>
+        <p>This page will discuss the most agreed upon of set of guidelines for people to follow when it comes to using Generative AI.</p>
+
+        <section class="mb-4">
+            <h3>1. Responsible Use In The Academics</h3>
+            <p>Generative AI must be strictly used as a learning tool, not a replacement of your critical thinking. In order to AI responsibly, students should us AI to brainstorm, summarize, and clarify concepts that we, at first, do not understand yet and the final output should come based on our understandings. That is why many institutions require students to acknowledge AI use in student's assignments. Which comes from school policies, AI checking, and making sure AI help does not violate academic honesty rules (UNESCO; Google, 2023).</p>
+        </section>
+
+        <section class="mb-4">
+            <h3>2. Avoiding Plagiarism And Misuse</h3>
+            <p>Plagiarism and Misuse of content that comes from others is common among students. Which Generative AI may unintentionally create copyrighted text which could get a student in trouble by the university or the law (IBM Think, n.d.; Stanford CRFM, 2023).</p>
+            <h6>That is why students and people should:</h6>
+            <ul>
+                <li>Rewrite or paraphrase the AI output in their own understanding</li>
+                <li>Cite sources properly</li>
+                <li>Entirely avoid AI to not deal with the rules</li>
+                <li>Strictly use AI to assist you, not answer</li>
+            </ul>
+        </section>
+
+        <section class="mb-4">
+            <h3>3. Accuracy & Verification of AI Outputs</h3>
+            <p>Generative AI is not always accurate as models can produce responses that may sound factual when they are not, they are known as hallucinations. Generative AI may invent citations, make false statistics, or provide outdated information (Google, 2023).</p>
+            <h6>Students may verify these type content by using:</h6>
+            <ul>
+                <li>Reliable sources</li>
+                <li>Peer-reviewed research</li>
+                <li>Official books or publications</li>
+                <li>Credible websites</li>
+            </ul>
+        </section>
+
+        <section class="mb-4">
+            <h3>4. Bias & Fairness</h3>
+            <p>Generative AI models may train on datasets that may contain social, cultural, or historical, biases. So at times, AI might create unfair and discriminatory responses (UNESCO, 2021; Stanford CRFM, 2023).</p>
+            <h6>That is why students must check out on:</h6>
+            <ul>
+                <li>Potential bias of examples and explanations provided</li>
+                <li>Skewed datasets</li>
+                <li>Evaluating AI output critically</li>
+            </ul>
+        </section>
+
+        <section class="mb-4">
+            <h3>5. Recommended Guidelines</h3>
+            <p>To summarize, AI must be strictly used to be your learning guide and not the one to answer your tasks and problems. Use it to get ideas, summary of topics, and clarifying concepts for our learning. Only make sure that your works will reflect based on your own understandings. If you have to use AI on tasks, keep in mind to paraphrase the answers and cite sources properly in order to use AI responsibly. Since AI may make mistakes or "hallucinations" at some responses, always double check the output by checking through credible sources, textbooks, and many more, which will also help you avoid turning in answers with biases.</p>
+            <h6>Overall, here are the appropriate actions to take on using AI:</h6>
+            <ol>
+                <li>Verify AI Outputs</li>
+                <li>DO NOT submit AI generated work</li>
+                <li>Acknowledge the use of AI</li>
+                <li>DO NOT share personal or private information</li>
+                <li>Use AI to learn</li>
+                <li>Be mindful to Biases</li>
+                <li>Use credible sources</li>
+            </ol>
+        </section>
+    </main>
+
+    <hr class="my-4">
+    <section class="container mb-4">
+        <h3>Resources</h3>
+        <p>Google. (2023). <em>About generative AI. </em><a href="https://ai.google/static/documents/google-about-generative-ai.pdf" target="_blank">https://ai.google/static/documents/google-about-generative-ai.pdf</a></p>
+        <p>IBM Think. (n.d.). <em>What is generative AI? </em><a href="https://www.ibm.com/think/topics/generative-ai" target="_blank">https://www.ibm.com/think/topics/generative-ai</a></p>
+        <p>UNESCO. (2021). <em>Recommendation on the ethics of artificial intelligence. </em><a href="https://unesdoc.unesco.org/ark:/48223/pf0000381137" target="_blank">https://unesdoc.unesco.org/ark:/48223/pf0000381137</a></p>
+        <p>Stanford Center for Research on Foundation Models. (2023). <em> Foundation models and AI ethics overview. </em><a href="https://crfm.stanford.edu" target="_blank">https://crfm.stanford.edu</a></p>
+    </section>
+</body>
+</html>
