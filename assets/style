@@ -23,14 +23,16 @@
 .accordion-button:hover {
     background-color: #f1f3f5;
 }
-.Title {
-  margin-top: 1rem;
-  border: 2px solid rgb(129, 158, 201);
-  border-radius: 10px;
-  padding: 1rem;
-  width: 90%;
-  background-color: rgba(255, 255, 255, 0.3);
-  backdrop-filter: blur(5px);
-  -webkit-backdrop-filter: blur(5px);
-  transition: all 0.3s ease;
+
+.invert img {
+  filter: invert(100%);
+}
+
+.custom-card {
+    background-color: #c9dcff;
+}
+
+.logo {
+    border: 2px solid rgb(186, 201, 226);
+    border-radius: 10px;
 }
