@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>FAQs — GenAI</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">GenAI: Frequently Asked Questions about AI</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navmenu">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navmenu">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="faq.html">FAQs</a></li>
+                    <li class="nav-item"><a class="nav-link" href="ethics.html">Ethics</a></li>
+                    <li class="nav-item"><a class="nav-link" href="analogy.html">Analogy</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <main class="container my-5">
+        <h1>Frequently Asked Questions about Generative AI</h1>
+        <p>Generative AI is a tool mostly used to assist many people on tasks that can be reduced with its assistance. But some people might not know about of it really works and think as a "human" flawlessly, when in fact it uses different models to create responses that satisfy many users. Bellow this explains many questions about types of AI, how do we properly use it, and its strengths and weaknesses.</p>
+        <div class="accordion" id="aqAccordion">
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="q1">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#a1">What is Generative AI?</button>
+                </h2>
+                <div id="a1" class="accordion-collapse collapse" data-bs-parent="#aqAccordion">
+                    <div class="accordion-body">The use of Generative AI can help you generate content such as text, images, music, videos, or code at a very fast level. Instead of just identifying or classifying data, these models generate outputs based on patterns learned from large datasets. For example, chatbots, image generators, and code assistant AIs (IBM Think, n.d.; Google, 2023).</div>
+                </div>
+            </div>
+
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="q2">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#c2">How does it work?</button>
+                </h2>
+                <div id="c2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body">Generative AI utilizes machine learning models like neural networks. Machine Learning Model lets AI learn patterns, relationships, and structures from many datasets. As when an AI machine was given a prompt, the model predicts what element will be next to be in the output like Chat GPT which utilizes Large Language Models. Elements like word, pixel, or sound. The model uses statistical probabilities to produce answers that are "similar" to what a human would think (Google, 2023; Stanford CRFM, 2023).</div>
+                </div>
+            </div>
+
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="q3">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#c3">Examples of GenAI tools?</button>
+                </h2>
+                <div id="c3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body">There are many types of Artificial Intelligences that is used for specific scenarios (IBM Think, n.d.; Google, 2023). These examples of AI are:</div>
+                    <div class="fw-bold ps-3 mb-1">Text generation (LLMs):</div>
+                    <ul>
+                        <li>ChatGPT</li>
+                        <li>Google Gemini/Bard</li>
+                        <li>Claude AI</li>
+                        <li>Meta LLaMA models</li>
+                    </ul>
+                    <div class="fw-bold ps-3 mb-1">Image generation:</div>
+                    <ul>
+                        <li>DALL·E</li>
+                        <li>Midjourney</li>
+                        <li>Stable Diffusion</li>
+                    </ul>
+                    <div class="fw-bold ps-3 mb-1">Video generation:</div>
+                    <ul>
+                        <li>OpenAI Sora</li>
+                        <li>Runway Gen-2</li>
+                    </ul>
+                    <div class="fw-bold ps-3 mb-1">Code assistants:</div>
+                    <ul>
+                        <li>GitHub Copilot</li>
+                        <li>CodeWhisperer</li>
+                    </ul>
+                    <div class="fw-bold ps-3 mb-1">Audio/music:</div>
+                    <ul>
+                        <li>Suno</li>
+                        <li>Udio</li>
+                        <li>OpenAI Audio models</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="q4">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#c4">What AI can do? (Strength)</button>
+                </h2>
+                <div id="c4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body">Generative AI excels at creating drafts quickly for essays and script, Explain details that are easily digestible for many people, create images, videos, and graphics just from prompts, debugging and creating a sample code, brainstorming ideas, personalized tutoring, and language translations. Generative AI is a tool used to solve problems that could take time and effort. Which helps people to focus on other activities where most humans can excel at (Google, 2023; IBM Think, n.d.).</div>
+                </div>
+            </div>
+
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="q5">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#c5">What are its limitations or risks?</button>
+                </h2>
+                <div id="c5" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body">Generative AI has a tendency to produce factually wrong information, bias responses depending on the AI's training data is being fed to the AI program, overreliance of students and even people of AI which results on copyright issues if used inefficiently and weakening of critical thinking, privacy concerns, lack of maintaining memory of past conversations and emotions (UNESCO, 2021; Stanford CRFM, 2023; Google, 2023).</div>
+                </div>
+            </div>
+        </div>
+        <h4 style="margin-top: 40px;">Any other questios you want to know? Comment below!</h4>
+        <div class="row justify-content-center mb-5">
+            <div class="col-4 col-md-12">
+                <div class="card shadow-sm">
+                    <div class="card-header bg-primary text-white"></div>
+                        <div class="card-body">
+                            <form>
+                                <div class="mb-3">
+                                    <label for="name" class="form-label">Name (optional)</label>
+                                    <input type="text" class="form-control" id="name" placeholder="Your name">
+                                </div>
+                                <div class="mb-3">
+                                    <label for="comment" class="form-label">Comment</label>
+                                    <textarea class="form-control" id="comment" rows="4" placeholder="Write your comment here..." required></textarea>
+                                </div>
+                            <button type="submit" class="btn btn-primary w-100">Post Comment</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <hr class="my-4">
+    <section class="container mb-4">
+        <h3>Resources</h3>
+        <p>Google. (2023). <em>About generative AI.</em><a href="https://ai.google/static/documents/google-about-generative-ai.pdf" target="_blank">https://ai.google/static/documents/google-about-generative-ai.pdf</a></p>
+        <p>IBM Think. (n.d.). <em>What is generative AI?</em><a href="https://www.ibm.com/think/topics/generative-ai" target="_blank">https://www.ibm.com/think/topics/generative-ai</a></p>
+        <p>UNESCO. (2021). <em>Recommendation on the ethics of artificial intelligence.</em><a href="https://unesdoc.unesco.org/ark:/48223/pf0000381137" target="_blank">https://unesdoc.unesco.org/ark:/48223/pf0000381137</a></p>
+        <p>Stanford Center for Research on Foundation Models. (2023). <em>Foundation models and AI ethics overview.</em><a href="https://crfm.stanford.edu" target="_blank">https://crfm.stanford.edu</a></p>
+        <p>Google DeepMind. (n.d.). <em>Understanding AI systems.</em><a href="https://deepmind.google/discover" target="_blank">https://deepmind.google/discover</a></p>
+    </section>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</html>
