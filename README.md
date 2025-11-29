@@ -47,13 +47,9 @@ Instructions on how to run the project:
 
   Frameworks/Libraries Used:
     Bootstrap
-    Technologies Used: HTML and CSS
+    Technologies Used: HTML, Javascript, and CSS
 
   Screenshot of your website:
-    <img width="1901" height="951" alt="image_2025-11-27_200032806" src="https://github.com/user-attachments/assets/37d7df34-961c-418e-8908-636100b74d9c" />
-    <img width="1888" height="947" alt="image" src="https://github.com/user-attachments/assets/572edbe5-5c33-4bcb-bc6e-b6e9ac7e0fb4" />
-    <img width="1891" height="949" alt="image" src="https://github.com/user-attachments/assets/30598e52-3243-4edb-9ec9-9f1922015574" />
-    <img width="1911" height="953" alt="image" src="https://github.com/user-attachments/assets/40369626-35b2-486f-bb5c-c9014c783077" />
 
 
 
