@@ -2,7 +2,9 @@ Project title:
   Build a Website on GenAI FAQs & Ethical Use of AI
 
 Short overview:
-  We are tasked to make a website that contains all about the commonly asked questions, ethical uses, and analogy of AI.
+  This is a static website project developed to present FAQ on Generative AI, ethical use of AI, and an analogy that explores AI use in
+  development work. The site will have structured information, examples of AI tools, strengths, and limitations of AI, and reflective
+  ethical considerations for students.
 
 Instructions on how to run the project:
   1. Content Requirements
@@ -46,8 +48,9 @@ Instructions on how to run the project:
     Interactive UI elements (modals, tabs, accordions)
 
   Frameworks/Libraries Used:
-    Bootstrap
-    Technologies Used: HTML, Javascript, and CSS
+    Bootstrap 5
+    Languages:
+    HTML, CSS, and JavaScript (DOM manipulation + localStorage)
 
   Screenshot of your website:
     <img width="1876" height="914" alt="image" src="https://github.com/user-attachments/assets/8efa2881-efa5-475d-8594-9b7bbecaaf11" />
